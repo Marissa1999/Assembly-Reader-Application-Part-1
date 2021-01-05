@@ -1,0 +1,7 @@
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab4\AssemblyReader\AssemblyReader\obj\Debug\AssemblyReader.csprojAssemblyReference.cache
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab4\AssemblyReader\AssemblyReader\obj\Debug\AssemblyReader.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab4\AssemblyReader\AssemblyReader\bin\Debug\AssemblyReader.exe.config
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab4\AssemblyReader\AssemblyReader\bin\Debug\AssemblyReader.exe
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab4\AssemblyReader\AssemblyReader\bin\Debug\AssemblyReader.pdb
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab4\AssemblyReader\AssemblyReader\obj\Debug\AssemblyReader.exe
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab4\AssemblyReader\AssemblyReader\obj\Debug\AssemblyReader.pdb
